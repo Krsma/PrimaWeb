@@ -10,6 +10,8 @@ tags:
 - Rezultati
 
 ---
+Kup Mačevalačkog saveza Srbije
+
 Miloš Hrgović - Prvo mesto
 
 Sonja Stojanović - Prvo mesto
