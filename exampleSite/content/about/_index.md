@@ -1,6 +1,6 @@
 ---
 title: Mačevalački klub Prima
-image: images/author.jpg
+image: images/Prima-crno.jpg
 description: O klubu
 
 ---
