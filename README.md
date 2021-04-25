@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98127b13-d382-442b-ade5-44a0ee92cc56/deploy-status)](https://app.netlify.com/sites/epic-chandrasekhar-8e4d16/deploys)
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Persian hugo theme by following this easy steps (No Coding Required)
 
