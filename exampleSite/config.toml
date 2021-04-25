@@ -8,21 +8,25 @@ title = "MK Prima"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-[[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Category"
+url = "categories/nature/"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 4
+[[menu.main]]
+name = "Privacy Policy"
+url = "privacy-policy"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
@@ -30,7 +34,7 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 search = true
 [params.cookies]
 enable = true
