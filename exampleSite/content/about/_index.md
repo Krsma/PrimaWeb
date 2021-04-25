@@ -9,3 +9,7 @@ Tekst o klubu
 Radimo mač i floret
 
 Lorem Ipsum
+
+Kontakt trenera:
+
+066 666 999
